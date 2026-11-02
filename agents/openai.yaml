@@ -1,0 +1,6 @@
+interface:
+  display_name: "Дизайн-директор"
+  short_description: "Сайты, слайды и дашборды с сильной типографикой"
+  default_prompt: "Используй $visual-design-director: создай выразительный дизайн под мою задачу, проверь кириллицу, анимации и готовый результат."
+policy:
+  allow_implicit_invocation: true
